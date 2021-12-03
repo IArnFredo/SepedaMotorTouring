@@ -1,0 +1,15 @@
+body{
+  overflow-x: hidden;
+  /* background-color: #e3e2de; */
+  /* background:url("/images/bg/bg.jpg");
+  background-size: cover; */
+}
+
+.navbar{
+  background-color: #E7E7E7 !important;
+}
+
+.header-logo{
+  padding: 10px;
+  width: 100px;
+}
